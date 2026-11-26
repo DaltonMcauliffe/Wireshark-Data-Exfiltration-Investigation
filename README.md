@@ -7,6 +7,15 @@ This project documents a simulated Security Operations Center (SOC) investigatio
 
 The objective was to investigate suspicious network traffic, identify compromised authentication mechanisms, reconstruct transferred data, determine the scope of data exposure, and recommend security controls to prevent similar incidents.
 
+## Incident Report
+
+A formal SOC incident report documenting the investigation findings,
+incident timeline, potential business impact, forensic evidence,
+and prioritized remediation recommendations is available below.
+
+[View Formal SOC Incident Report](Incident-Report.md)
+
+
 ## Executive Summary
 
 Through network packet analysis using Wireshark and forensic verification using Kali Linux, I identified a simulated data exfiltration incident involving an insecure FTP server.
